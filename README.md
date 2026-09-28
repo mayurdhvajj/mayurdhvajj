@@ -1,6 +1,5 @@
 <h2 align="left">Hi 👋! My name is Mayurdhvajsinh Jadeja and I'm a Software Developer, from India</h2>
 <h3 align="left">View my portfolio website here: https://mayurdhvaj.in</h3>
-<h3 align="left">Pssst... Around this portfolio, there are a few hidden clues and easter eggs, just waiting for the curious developer to find them!</h3>
 
 
 ![](https://komarev.com/ghpvc/?username=mayurdhvajj&color=blue&style=for-the-badge&abbreviated=true)
